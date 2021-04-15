@@ -1,0 +1,4 @@
+chain-id: frontier-chain-testnet-0-black-mamba
+gentx-amount: 1000000000000front
+front version: v0.1.0
+genesis-time: 2021-04-14T15:00:00Z
